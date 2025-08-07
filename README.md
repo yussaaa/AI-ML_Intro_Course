@@ -4,17 +4,19 @@ This repo contains the course material for AI/ML introductory course.
 
 [ABAITC course website](https://abaitc.org/t-classes/304240801)
 
+[Course slides](https://drive.google.com/drive/folders/1GZJiBw2_mmnSlznOfY-47dJ7HdRxnUJG?usp=drive_link)
+
 ## Schedule
 
 ``` text
-Session 1(Aug 1st): Intro, Tools, ML basics
-Session 2(Aug 6th): Prerequisites walk through & EDA with Pandas
-Session 3(Aug 8th): Linear regression & ML Concepts (How ML model learns)
-Session 4(Aug 13th): Regression & ML Concepts 2
-Session 5(Aug 15th): Classification, clustering
-Session 6(Aug 20th): NLP and CV intro
-Session 7(Aug 22nd): Advanced learning algorithms
-Session 8(Aug 27th): Final Quiz
+Session 1: Intro, Tools, ML basics
+Session 2: Prerequisites walk through & EDA with Pandas
+Session 3: Linear regression & ML Concepts (How ML model learns?)
+Session 4: Regression & ML Concepts 2
+Session 5: Classification, clustering
+Session 6: NLP and CV intro
+Session 7: Advanced learning algorithms
+Session 8: Final Quiz
 ```
 
 ## Tools
